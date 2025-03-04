@@ -35,31 +35,11 @@
         <div>
           <img src="./images/notebook-animation.svg" alt="Laptop Image">
         </div>
+        <div class="page-content">The answer is ...</div>
         <br />
-        <div class="page-content">Instructions Here</div>
-        <br />
-        <!-- Numeric Textfield with Floating Label -->
-        <form action="#">
-          <div
-            class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label"
-          >
-            <input
-              class="mdl-textfield__input"
-              type="text"
-              pattern="-?[0-9]*(\.[0-9]+)?"
-              id="sample4"
-            />
-            <label class="mdl-textfield__label" for="sample4"> Number...</label>
-            <span class="mdl-textfield__error">Input is not a number!</span>
-          </div>
-        </form>
-        <!-- Raised button with ripple -->
-        <button
-          class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect"
-          type="submit"
-        >
-          Calculate
-        </button>
+        <div class="page-content-answer">
+          <a href="./index.php"> Return ...<a>
+        </div>
         <br />
       </main>
     </div>
