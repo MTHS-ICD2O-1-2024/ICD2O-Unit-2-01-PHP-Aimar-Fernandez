@@ -35,7 +35,11 @@
         <div>
           <img src="./images/notebook-animation.svg" alt="Laptop Image">
         </div>
-        <div class="page-content">The answer is ...</div>
+        <div class="page-content">
+          <?php
+          echo "Hello, World!";
+          ?>
+        </div>
         <br />
         <div class="page-content-answer">
           <a href="./index.php"> Return ...<a>
