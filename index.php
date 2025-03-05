@@ -36,7 +36,7 @@
           <img src="./images/notebook-animation.svg" alt="Laptop Image">
         </div>
         <br />
-        <div class="page-content">Click teh Button</div>
+        <div class="page-content">Click the Button</div>
         <br />
         <form action="answer.php" method="GET">
           <br/>

@@ -35,6 +35,7 @@
         <div>
           <img src="./images/notebook-animation.svg" alt="Laptop Image">
         </div>
+        <br/>
         <div class="page-content">
           <?php
           echo "Hello, World!";
